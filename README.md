@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!-# 💫 About Me:
+ About Me: 
+ 
 I am a Zoology postgraduate transitioning into IT with a focus on Data Analytics and Web Development.<br> I combine analytical skills with domain knowledge in life sciences to build data-driven web applications<br><br><br><br>
 
 
