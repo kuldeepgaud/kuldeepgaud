@@ -68,13 +68,25 @@ A collection of Python programming exercises and mini-projects showcasing core p
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 **Data Analysis Skills**
-`EDA` `Data Cleaning` `Statistical Analysis` `Hypothesis Testing` `Data Wrangling` `Database Design`
+![EDA](https://img.shields.io/badge/EDA-000000?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-000000?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-000000?style=for-the-badge)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-000000?style=for-the-badge)
+![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-000000?style=for-the-badge)
+![Database Design](https://img.shields.io/badge/Database%20Design-000000?style=for-the-badge)
 
 **Excel Skills**
-`Pivot Tables` `VLOOKUP` `Power Query` `Power Pivot`
+![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-000000?style=for-the-badge)
+![VLOOKUP](https://img.shields.io/badge/VLOOKUP-000000?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-000000?style=for-the-badge)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-000000?style=for-the-badge)
 
 **Core Concepts**
-`Probability` `Statistics` `Model Evaluation` `Feature Engineering`
+![Probability](https://img.shields.io/badge/Probability-000000?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-000000?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-000000?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-000000?style=for-the-badge)
 
 ---
 
@@ -94,4 +106,3 @@ A collection of Python programming exercises and mini-projects showcasing core p
 📫 <b>Open to entry-level Data Science / Data Analytics roles — let's connect!</b>
 
 </div>
-
