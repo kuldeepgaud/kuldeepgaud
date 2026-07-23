@@ -89,16 +89,6 @@ A collection of Python programming exercises and mini-projects showcasing core p
 ![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-4169E1?style=for-the-badge)
 
 ---
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kuldeepgaud&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepgaud&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-
-</div>
-
 ---
 
 <div align="center">
