@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Monospace&size=26&pause=1000&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kuldeep+Gaud;Zoology+Postgraduate+%7C+Data+Science+Learner;Turning+Biological+Curiosity+into+Data+Insights;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Kuldeep+Gaud;Zoology+Postgraduate+%7C+Data+Science+Learner;Turning+Biological+Curiosity+into+Data+Insights;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepgaud)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuldeepgaud)
-[![DagsHub](https://img.shields.io/badge/DagsHub-000000?style=for-the-badge&logo=data-version-control&logoColor=white)](https://dagshub.com/kuldeepgaud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepgaud)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kuldeepgaud)
+[![DagsHub](https://img.shields.io/badge/DagsHub-FF6F00?style=for-the-badge&logo=data-version-control&logoColor=white)](https://dagshub.com/kuldeepgaud)
 
 </div>
 
@@ -47,46 +47,46 @@ A collection of Python programming exercises and mini-projects showcasing core p
 ### ⚡ Tech Stack
 
 **Programming & Databases**
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Data Analysis & Visualization**
-![NumPy](https://img.shields.io/badge/Numpy-000000?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=Matplotlib&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-000000?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=Tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **Tools & Platforms**
-![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-000000?style=for-the-badge&logo=googlecolab&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 **Data Analysis Skills**
-![EDA](https://img.shields.io/badge/EDA-000000?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-000000?style=for-the-badge)
-![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-000000?style=for-the-badge)
-![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-000000?style=for-the-badge)
-![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-000000?style=for-the-badge)
-![Database Design](https://img.shields.io/badge/Database%20Design-000000?style=for-the-badge)
+![EDA](https://img.shields.io/badge/EDA-6A0DAD?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-1E90FF?style=for-the-badge)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-2E8B57?style=for-the-badge)
+![Hypothesis Testing](https://img.shields.io/badge/Hypothesis%20Testing-D2691E?style=for-the-badge)
+![Data Wrangling](https://img.shields.io/badge/Data%20Wrangling-C71585?style=for-the-badge)
+![Database Design](https://img.shields.io/badge/Database%20Design-4682B4?style=for-the-badge)
 
 **Excel Skills**
-![Excel](https://img.shields.io/badge/Excel-000000?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-000000?style=for-the-badge)
-![VLOOKUP](https://img.shields.io/badge/VLOOKUP-000000?style=for-the-badge)
-![Power Query](https://img.shields.io/badge/Power%20Query-000000?style=for-the-badge)
-![Power Pivot](https://img.shields.io/badge/Power%20Pivot-000000?style=for-the-badge)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pivot Tables](https://img.shields.io/badge/Pivot%20Tables-217346?style=for-the-badge)
+![VLOOKUP](https://img.shields.io/badge/VLOOKUP-217346?style=for-the-badge)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge)
+![Power Pivot](https://img.shields.io/badge/Power%20Pivot-217346?style=for-the-badge)
 
 **Core Concepts**
-![Probability](https://img.shields.io/badge/Probability-000000?style=for-the-badge)
-![Statistics](https://img.shields.io/badge/Statistics-000000?style=for-the-badge)
-![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-000000?style=for-the-badge)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-000000?style=for-the-badge)
+![Probability](https://img.shields.io/badge/Probability-FF8C00?style=for-the-badge)
+![Statistics](https://img.shields.io/badge/Statistics-20B2AA?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-8B0000?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-4169E1?style=for-the-badge)
 
 ---
 
@@ -94,8 +94,8 @@ A collection of Python programming exercises and mini-projects showcasing core p
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kuldeepgaud&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepgaud&hide_border=true" alt="GitHub Streak" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kuldeepgaud&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeepgaud&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
 
 </div>
 
