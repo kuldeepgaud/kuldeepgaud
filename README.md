@@ -30,13 +30,13 @@ I'm a **Zoology postgraduate (M.Sc. pursuing)** with a **B.Sc. in Biology**, tra
 **[ShopVerse FinTech Solutions](https://github.com/kuldeepgaud/ShopVerse_FinTechSolutions)** *(Python, SQL, Power BI, DAX)*
 A dataset simulating real-world financial operations of a FinTech company — covering transactions, customer behavior, lending, fraud, and operational metrics across India.
 
-**Aerox Database Management** *(SQL, Database Design, Power BI)*
+**[Aerox Database Management]()** *(SQL, Database Design, Power BI)*
 An aviation-focused database and analytics project designed to manage flight operations data and support analysis of airline performance.
 
-**FundRaising Business Intelligence Model** *(SQL, Power BI, HTML)*
+**[FundRaising Business Intelligence Model](https://github.com/kuldeepgaud/FundRaising_BusinessIntellegence_Model)** *(SQL, Power BI, HTML)*
 A BI-driven model analyzing fundraising campaign performance and donor contribution trends to support data-backed decision making.
 
-**NexusPay Transaction Database** *(SQL, Database Design)*
+**[NexusPay Transaction Database](https://github.com/kuldeepgaud/NexusPay_TransactionDataBase)** *(SQL, Database Design)*
 A scalable database architecture designed for a fintech platform supporting P2P transfers, merchant payments, and transaction processing.
 
 **Python Programming** *(Python)*
