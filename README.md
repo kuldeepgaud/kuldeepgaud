@@ -27,7 +27,7 @@ I'm a **Zoology postgraduate (M.Sc. pursuing)** with a **B.Sc. in Biology**, tra
 
 ### 🛠️ Featured Projects
 
-**ShopVerse FinTech Solutions** *(Python, SQL, Power BI, DAX)*
+**[ShopVerse FinTech Solutions](https://github.com/kuldeepgaud/ShopVerse_FinTechSolutions)** *(Python, SQL, Power BI, DAX)*
 A dataset simulating real-world financial operations of a FinTech company — covering transactions, customer behavior, lending, fraud, and operational metrics across India.
 
 **Aerox Database Management** *(SQL, Database Design, Power BI)*
